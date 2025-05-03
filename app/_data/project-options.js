@@ -6,7 +6,7 @@ export const projectOptions = {
     },
     {
       type: 'video',
-      source: 'Dennis-Portfolio/videos/fldn3dntkusr22roeybr',
+      source: 'ava_n8thtk',
     },
     {
       type: 'image',
@@ -14,25 +14,25 @@ export const projectOptions = {
     },
     {
       type: 'video',
-      source: 'Dennis-Portfolio/videos/x8w8sbohl5wkfuelmkhu',
+      source: 'ava_n8thtk',
     },
   ],
   second: [
     {
       type: 'image',
-      source: 'Dennis-Portfolio/images/r4kcbkvkl0djjt0mxmcw',
+      source: 'ava_n8thtk',
     },
     {
       type: 'video',
-      source: 'Dennis-Portfolio/videos/q0yepc6dssbosmdk3isu',
+      source: 'ava_n8thtk',
     },
     {
       type: 'image',
-      source: 'Dennis-Portfolio/images/ffoc9zsoeusptc7jcid5',
+      source: 'ava_n8thtk',
     },
     {
       type: 'video',
-      source: 'Dennis-Portfolio/videos/usiswniv5qhgu2vamhnx',
+      source: 'ava_n8thtk',
     },
   ],
 };
