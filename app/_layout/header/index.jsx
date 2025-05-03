@@ -17,7 +17,7 @@ export function Header() {
       animate='enter'
     >
       <CldImage
-        src='ava_n8thtk'
+        src='ibrahimaga_feckua'
         className='object-cover md:scale-125 md:object-contain'
         fill={true}
         sizes='100vw'
