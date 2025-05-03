@@ -17,7 +17,7 @@ export const ThumbnailCursorCircle = forwardRef(
     return (
       <MotionComponent
         ref={ref}
-        className='bg-primary'
+        className='bg-white/20 backdrop-blur-md'
         variants={variants}
         initial='initial'
         animate={active ? 'enter' : 'closed'}

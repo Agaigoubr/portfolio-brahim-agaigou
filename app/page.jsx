@@ -13,7 +13,7 @@ console.log('Cloud name:', process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME);
 export const metadata = {
   title: 'Home | IbrahimAgaigou',
   description:
-    'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Dennis',
+    'Helping ideas thrive in the digital world. Based in The Netherlands. 🎨 Crafting custom digital designs & 💻 building interactive websites from scratch. © Code by Brahim Agaigou',
 };
 
 export default function Home() {

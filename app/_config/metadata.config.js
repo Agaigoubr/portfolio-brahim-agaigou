@@ -1,14 +1,16 @@
 /** @type {import('next').Metadata} */
 export const rootMetadata = {
-  metadataBase: new URL('https://dennis-snellenberg-portfolio.vercel.app/'),
+  metadataBase: new URL(
+    'https://portfolio-brahim-agaigou-fbs1-nif44jb2n.vercel.app/',
+  ),
   title: {
-    template: '%s | Dennis Snellenberg',
-    default: 'Dennis Snellenberg • Freelance Designer & Developer',
+    template: '%s | BrahimAgaigou',
+    default: 'BrahimAgaigou • Freelance Designer & Developer',
   },
   description:
-    'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Dennis',
-  generator: 'Dennis Snellenberg',
-  applicationName: 'Dennis Snellenberg',
+    'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Brahim Agaigou',
+  generator: 'BrahimAgaigou',
+  applicationName: 'BrahimAgaigou',
   referrer: 'origin-when-cross-origin',
   keywords: ['Design', 'Develope', 'Freelance'],
   authors: [
@@ -18,14 +20,14 @@ export const rootMetadata = {
   publisher: 'Ali Bagheri',
   twitter: {
     card: 'summary_large_image',
-    title: 'Dennis Snellenberg',
+    title: 'BrahimAgaigou',
     description:
       'Helping brands thrive in the digital world. Located in The Netherlands. Delivering tailor-made digital designs and building interactive websites from scratch. © Code by Dennis',
     siteId: '1467726470533754880',
     creator: '@AliBagheri2079',
     creatorId: '1467726470533754880',
     images: {
-      url: 'https://dennis-snellenberg-portfolio.vercel.app/screenshot.png',
+      url: 'https://portfolio-brahim-agaigou-fbs1-nif44jb2n.vercel.app/',
       alt: 'Portfolio Screenshot',
     },
   },

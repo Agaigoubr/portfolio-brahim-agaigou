@@ -11,7 +11,7 @@ import { slideUp } from './variants';
 export function Header() {
   return (
     <motion.header
-      className='relative h-screen overflow-hidden bg-secondary-foreground text-background'
+      className='relative h-screen overflow-hidden bg-indigo-600 text-background'
       variants={slideUp}
       initial='initial'
       animate='enter'
@@ -43,8 +43,8 @@ export function Header() {
             </div>
 
             <h4 className='text-[clamp(1.55em,2.5vw,2.75em)]'>
-              <span className='block'>Ibrahim</span>
-              <span className='block'>Agaigou &amp; Developper</span>
+              <span className='block'>Devlopper</span>
+              <span className='block'>frondend &amp; backend</span>
             </h4>
           </div>
         </div>

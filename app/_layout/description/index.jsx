@@ -9,7 +9,7 @@ import { MagneticButton, ParallaxFade, ParallaxReveal } from '@/components';
 import { Title, Wrapper } from './index.styled';
 
 const phrase =
-  'Helping brands to stand out in the digital era. Together we will set the new status quo. No nonsense, always on the cutting edge.';
+  '👋 Hi, I m Brahim Agaigou — Web Developer & Creative Technologist Passionate about design, 💻 code, and 🎯 user interaction — I blend creativity with technical skill to build 🌐 responsive, ✨ intuitive, and 🎨 visually engaging web experiences. Whether it s crafting sleek UIs or optimizing performance, I m all about delivering exceptional digital solutions. 🚀';
 
 export function Description() {
   return (
@@ -24,8 +24,9 @@ export function Description() {
         <div className='basis-7/12 lg:basis-3/12'>
           <ParallaxFade>
             <Balancer as='p' className='mt-2 text-base lg:text-lg'>
-              The combination of my passion for design, code & interaction
-              positions me in a unique place in the web design world.
+              Hi, I’m Brahim Agaigou — Web Developer Passionate about design,
+              code, and interaction. I create clean, responsive, and engaging
+              web experiences.
             </Balancer>
           </ParallaxFade>
         </div>
