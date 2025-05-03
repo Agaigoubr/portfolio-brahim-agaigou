@@ -17,7 +17,7 @@ export function Header() {
       animate='enter'
     >
       <CldImage
-        src='/dznzx8oal/image/upload/v1746235886/ava_n8thtk.png'
+        src='ava_n8thtk'
         className='object-cover md:scale-125 md:object-contain'
         fill={true}
         sizes='100vw'
@@ -29,7 +29,7 @@ export function Header() {
           <h1 className='text-[max(9em,15vw)]'>
             <ParallaxSlider repeat={4} baseVelocity={2}>
               <span className='pe-12'>
-               Ibrahim.Agaigou
+                Ibrahim.Agaigou
                 <span className='spacer'>—</span>
               </span>
             </ParallaxSlider>

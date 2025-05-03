@@ -1,22 +1,22 @@
 export const thumbnailOptions = [
   {
-    href: 'dznzx8oal/image/upload/cld-sample',
+    href: 'ava_n8thtk',
     title: 'Gloora',
-    image: 'imgdznzx8oal/image/upload/cld-sample',
+    image: 'ava_n8thtk',
   },
   {
-    href: 'dznzx8oal/image/upload/cld-sample',
+    href: 'ava_n8thtk',
     title: 'Qavo',
     image: 'ava_n8thtk',
   },
   {
-    href: 'dznzx8oal/image/upload/cld-sample',
+    href: 'ava_n8thtk',
     title: 'Portfolio Photo',
-    image: 'dznzx8oal/image/upload/cld-sample',
+    image: 'ava_n8thtk',
   },
   {
-    href: 'dznzx8oal/image/upload/cld-sample',
+    href: 'ava_n8thtk',
     title: 'Stor',
-    image: "dznzx8oal/image/upload/cld-sample",
+    image: 'ava_n8thtk',
   },
 ];
