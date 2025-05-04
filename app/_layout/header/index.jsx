@@ -11,7 +11,7 @@ import { slideUp } from './variants';
 export function Header() {
   return (
     <motion.header
-      className='relative h-screen overflow-hidden bg-indigo-600 text-background'
+      className='relative h-screen overflow-hidden bg-[#919699] text-background'
       variants={slideUp}
       initial='initial'
       animate='enter'
